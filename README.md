@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-B.Tech @ IIIT Pune · Full-Stack Dev · Web3 Builder · ML Enthusiast
+Full-Stack Dev · Web3 Builder · ML Enthusiast
 
 I build things end-to-end — from smart contracts on Ethereum to full-stack web apps with real users in mind. If I find an interesting problem, I'll probably build something around it.
 
