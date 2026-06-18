@@ -42,4 +42,3 @@ Jujutsu Kaisen fan (yes, that's Gojo on my README inspiration image)
 
 
 
-📫 Reach me → LinkedIn · Email · Twitter
